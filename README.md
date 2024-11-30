@@ -1,2 +1,2 @@
 # Adaptive-of-Local-Experts
-Inspired by "paper by Jacobs
+Inspired by "Adaptive of Local Experts" paper by Jacobs et al. in 1991
